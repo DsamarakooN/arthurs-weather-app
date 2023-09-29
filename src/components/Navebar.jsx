@@ -12,7 +12,6 @@ function Navebar() {
 <nav className="bg-white border-gray-200 px-2 sm:px-4 py-2.5 rounded dark:bg-blue-100 p-10">
   <div className="container flex flex-wrap items-center justify-between mx-auto">
     <a href="#" className="flex items-center">
-        <img src="https://i.pinimg.com/originals/77/0b/80/770b805d5c99c7931366c2e84e88f251.png" className="h-6 mr-3 sm:h-9" alt="Logo" />
         <span className="self-center text-xl font-bold whitespace-nowrap dark:text-blue-500">Arthur's Weather App</span>
     </a>
     <button data-collapse-toggle="navbar-default" type="button" className="inline-flex items-center p-2 ml-3 text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="navbar-default" aria-expanded="false">
